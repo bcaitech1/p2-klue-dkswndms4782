@@ -1,0 +1,1 @@
+AssertionError: EarlyStoppingCallback requires load_best_model_at_end = True
